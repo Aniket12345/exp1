@@ -1,0 +1,3 @@
+[submodule "wafer-collab"]
+	path = wafer-collab
+	url = git@github.com:Aniket12345/wafer-collab.git
